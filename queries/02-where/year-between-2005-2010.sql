@@ -1,0 +1,2 @@
+SELECT * FROM station_data
+WHERE year BETWEEN 2005 AND 2010;
