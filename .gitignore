@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# SQLite scratch / temp files
+*.db-journal
+*.db-wal
+*.db-shm
