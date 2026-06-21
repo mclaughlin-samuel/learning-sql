@@ -41,7 +41,7 @@ sqlite> SELECT * FROM PRODUCT;
 
 | Date | Topic | What I practiced |
 |---|---|---|
-| 2026-06-21 | SELECT | First query — `SELECT * FROM CUSTOMER` to return all rows/columns from a table. |
+| 2026-06-21 | SELECT | Retrieving data: all rows/columns with `SELECT *`, picking specific columns, and querying different tables (`CUSTOMER`, `PRODUCT`). |
 
 ---
 
