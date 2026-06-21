@@ -41,7 +41,7 @@ sqlite> SELECT * FROM PRODUCT;
 
 | Date | Topic | What I practiced |
 |---|---|---|
-| 2026-06-21 | SELECT | Retrieving data: all rows/columns with `SELECT *`, picking specific columns, and querying different tables (`CUSTOMER`, `PRODUCT`). |
+| 2026-06-21 | SELECT *(complete)* | Retrieving data with `SELECT *` and specific columns; calculated/expression columns (e.g. taxed price); column aliases with `AS`; `round()` for formatting numbers; and string concatenation with `\|\|` to build composite fields (location, full shipping address). |
 
 ---
 
