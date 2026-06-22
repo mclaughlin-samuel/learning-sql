@@ -1,0 +1,5 @@
+SELECT * FROM station_data
+WHERE MONTH = 3
+OR MONTH = 6
+OR MONTH = 9
+OR MONTH = 12;
