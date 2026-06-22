@@ -42,6 +42,7 @@ sqlite> SELECT * FROM PRODUCT;
 | Date | Topic | What I practiced |
 |---|---|---|
 | 2026-06-21 | SELECT *(complete)* | Retrieving data with `SELECT *` and specific columns; calculated/expression columns (e.g. taxed price); column aliases with `AS`; `round()` for formatting numbers; and string concatenation with `\|\|` to build composite fields (location, full shipping address). |
+| 2026-06-22 | WHERE *(complete)* | Filtering rows with comparison operators (`=`, `!=`, `<>`, `>`, `<`, `>=`, `<=`); `BETWEEN` (inclusive); `AND` / `OR` / `NOT`; `IN` and `NOT IN` for value lists; modulo (`%`) for pattern-based filtering; `LIKE` with `%` and `_` wildcards; `IS NULL` for missing values; `COALESCE` to substitute a default for NULLs; and `AND`/`OR` operator precedence with explicit parentheses. |
 
 ---
 
